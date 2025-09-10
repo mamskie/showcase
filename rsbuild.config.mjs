@@ -7,6 +7,6 @@ export default defineConfig({
   },
   plugins: [pluginReact()],
   output: {
-    assetPrefix: '/showcase/', // ini penting!
+    // kosong untuk subdomain
   },
 });
