@@ -2,7 +2,7 @@
 
 Interactive portfolio & certificate presentation built with **React + Impress.js**, designed to highlight projects, trainings, and achievements with smooth transitions and a modern UI.  
 
-🌍 **Live Demo :** mamskie.me/showcase  
+🌍 **Live Demo :** Incoming..
 👤 **Author:** M. Khotibul Umam (Mamskie)  
 
 ---
