@@ -1,0 +1,23 @@
+.progress-bar {
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+
+  height: 3px;
+
+  transition: width 0.4s ease;
+
+  border-radius: 0 3px 3px 0;
+  background: var(--accent-primary);
+}
+
+[data-theme='light'] .progress-bar {
+  background: linear-gradient(90deg, #0011ff 0%, #00eeff 100%);
+  box-shadow: 0 0 10px rgba(0, 17, 255, 0.5);
+}
+
+[data-theme='dark'] .progress-bar {
+  background: linear-gradient(90deg, #0011ff 0%, #00eeff 100%);
+  box-shadow: 0 0 10px rgba(0, 17, 255, 0.5);
+}
