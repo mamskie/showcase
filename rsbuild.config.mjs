@@ -7,6 +7,6 @@ export default defineConfig({
   },
   plugins: [pluginReact()],
   output: {
-    assetPrefix: 'https://simonaking.com/projects/',
+    assetPrefix: '/showcase/', // ini penting!
   },
 });
